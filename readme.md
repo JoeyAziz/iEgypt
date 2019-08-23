@@ -15,7 +15,8 @@
 
 <h4>Some screenshots for the website:</h4>
 
-<p><img alt="Image" src="screenshots/1.png" height="auto" width="400"/></p>
+![Image](./screenshots/1.png?raw=true)
+<p><img alt="Image" src="./screenshots/1.png" height="auto" width="400"/></p>
 <p><img alt="Image" src="./screenshots/2.png" height="auto" width="400"/></p>
 <p><img alt="Image" src="./screenshots/3.png" height="auto" width="400"/></p>
 <p><img alt="Image" src="./screenshots/4.png" height="auto" width="400"/></p>
