@@ -16,16 +16,6 @@
 <h4>Some screenshots for the website:</h4>
 
 ![Image](/screenshots/1.png?raw=true "Optional Title")
-<p><img alt="Image" src="./screenshots/1.png" height="auto" width="400"/></p>
-<p><img alt="Image" src="./screenshots/2.png" height="auto" width="400"/></p>
-<p><img alt="Image" src="./screenshots/3.png" height="auto" width="400"/></p>
-<p><img alt="Image" src="./screenshots/4.png" height="auto" width="400"/></p>
-<p><img alt="Image" src="./screenshots/5.png" height="auto" width="400"/></p>
-<p><img alt="Image" src="./screenshots/6.png" height="auto" width="400"/></p>
-<p><img alt="Image" src="./screenshots/7.png" height="auto" width="400"/></p>
-<p><img alt="Image" src="./screenshots/8.png" height="auto" width="400"/></p>
-<p><img alt="Image" src="./screenshots/9.png" height="auto" width="400"/></p>
-<p><img alt="Image" src="./screenshots/10.png" height="auto" width="400"/></p>
-<p><img alt="Image" src="./screenshots/11.png" height="auto" width="400"/></p>
+
 
 
